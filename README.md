@@ -1,12 +1,13 @@
 # OSINT AIO
 
-**Local analyst workbench** for the public [**OSINT4ALL**](https://start.me/p/L1rEYQ/osint4all?locale=en) collection on Start.me. Snapshot external links into a JSON catalog, browse them in an embedded Chromium viewer with a dark UI, and keep working when the live board is down or slow.
+**Local analyst workbench** for the public [**OSINT4ALL**](https://start.me/p/L1rEYQ/osint4all?locale=en) collection on Start.me. Snapshot external links into a JSON catalog, browse them in an embedded Chromium viewer with a dark UI, and keep working when the live board is down or slow. ( if you dont want to scrape you can find the catalog.json in the data folder )
 
 ![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
 ![PyQt6](https://img.shields.io/badge/GUI-PyQt6%20WebEngine-green.svg)
 
 <p align="center">
-  <i>Add a screenshot here after your first run (<code>Viewer</code> + catalog pane).</i>
+  <i><img width="1416" height="914" alt="image" src="https://github.com/user-attachments/assets/bade0e4a-e605-42b0-86de-310f659760cb" />
+</i>
 </p>
 
 ## Features
