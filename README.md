@@ -10,6 +10,12 @@
 </i>
 </p>
 
+<p align="center">
+  <i><img width="1419" height="917" alt="image" src="https://github.com/user-attachments/assets/43ba5258-c535-4ac0-a317-67ffaddc610a" />
+ />
+</i>
+</p>
+
 ## Features
 
 - **Fetch catalog** — Loads Start.me in Qt WebEngine (default profile, no ad block), then a **deep scan** tuned for virtualized bookmark lists:
