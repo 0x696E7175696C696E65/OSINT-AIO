@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+.idea/
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Local snapshot (keep seed / blocklist in repo)
+data/catalog.json

@@ -1,0 +1,3 @@
+# Optional extra host suffixes to block in the embedded browser (one per line).
+# Example (uncomment to enable):
+# annoying-tracker.example
